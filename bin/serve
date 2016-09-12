@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 main() {
-	DEBUG=myapp:* npm start
+  nodemon ./bin/www
+	# DEBUG=myapp:* npm start
 }
 
 main "$@"
