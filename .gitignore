@@ -1,0 +1,14 @@
+########################
+# node.js / npm
+########################
+node_modules
+npm-debug.log
+
+
+########################
+# misc / editors
+########################
+*~
+*#
+.DS_STORE
+.local-documentation

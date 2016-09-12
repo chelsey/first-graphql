@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+main() {
+	DEBUG=myapp:* npm start
+}
+
+main "$@"
